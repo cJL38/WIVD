@@ -1,0 +1,14 @@
+﻿  source.c
+c:\users\8550\source\repos\tetris\tetris\source.c(153): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\8550\source\repos\tetris\tetris\source.c(140): warning C4102: 'RESTART': 참조되지 않은 레이블입니다.
+c:\users\8550\source\repos\tetris\tetris\source.c(184): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\8550\source\repos\tetris\tetris\source.c(185): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\8550\source\repos\tetris\tetris\source.c(166): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\8550\source\repos\tetris\tetris\source.c(369): warning C4098: 'make_block': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\8550\source\repos\tetris\tetris\source.c(419): warning C4098: 'drop_block': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\8550\source\repos\tetris\tetris\source.c(569): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  TETRIS.vcxproj -> C:\Users\8550\source\repos\TETRIS\Debug\TETRIS.exe
